@@ -2,7 +2,7 @@
 
 <p align="center"> My name is Frederick Cortez, a new full-stack developer from Bloomtech. I started my coding journey with Js, CSS, and HTML, eager to learn more about other languages. 🌱 </p>
 
-<p align="center">  If you are interested in working with me then feel free to reach out! 📫 </p>
+<p align="center">  If you are interested in giving me some guidance or would like to connect then feel free to! 📫 </p>
 
 <h3 align="left">Connect with me:</h3>
 
