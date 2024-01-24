@@ -1,6 +1,6 @@
 <h3 align="center"><b> Welcome to my GitHub! </b></h3>
 
-<p align="center"> My name is Frederick Cortez, a new full-stack developer from Bloomtech. I started my coding journey with JavaScript, CSS, and HTML. It has expanded to learning libraries like React and web frames like Express. I am eager to learn more about other languages and further my career in this field! 🌱 </p>
+<p align="center"> Hey there I'm Frederick Cortez, a full-stack developer from Bloomtech. I started my coding journey with JavaScript, CSS, and HTML. It has expanded to learning libraries like React and web frames like Express. I am eager to learn more about other languages and further my career in this field! 🌱 </p>
 
 <p align="center">  If you are interested in giving me some guidance or would like to connect then feel free to! 📫 </p>
 
